@@ -1,0 +1,7 @@
+@import './Auth.css';
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Rochester&display=swap');
+
+body,html {
+    font-family: 'Roboto Mono', monospace;
+    background-color:  #EEF6FC;
+}
